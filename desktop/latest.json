@@ -1,0 +1,19 @@
+{
+  "version": "0.7.1",
+  "notes": "Update otomatis desktop, impor M4A/AAC, dan startup tidak lagi menghapus suara.",
+  "pub_date": "2026-10-31T06:55:27.680Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0amNtMVJzbTBDZ21PT1Bmc0M3ckFZRThiWHI4akVQZmJjTllGSHFoSjRBM21rd1Z5TjRreXVSb0FOeU11UlUrWHlnZ0Rvd1NjZ0dnQWN0eXZhOGhlSEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDI1ODE1CWZpbGU6TGl2ZUNoYXRIdWItMC43LjEtbWFjb3MtYXJtNjQuYXBwLnRhci5negppZzQ3V3krZDAwRzlycEdDdzhjdEJsVG83NXlxV1BHRUJOOEhWVCtOZytVN0ZlaFByQ1JKNW53LytqMVZWUkFkZGU3Y2RDQnM0SmlUTURLeTFhNUpEQT09Cg==",
+      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.7.1/LiveChatHub-0.7.1-macos-arm64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0alJHM0Y1Y2t2NUFVT1V4K21mQlVFMll2ei9SR2pUVjVKblZDQVFWWnZpSUVtZHFrcGFrVXV6ektuaG5UUG9INDFGV0NmMi9zb1NzUytFUy90M3VQOXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDI5NjI3CWZpbGU6TGl2ZUNoYXQgSHViXzAuNy4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMQpWbysxTFJMWGdnS3ZEd2pIQTROVjlWS2tDWjRkdFB1ZWVzTE5tSlZMOVhUSlUvK0hDaGxaaGNuRmFabDVXZEt6aVBaSVdMbUNBaVZ5aUZqenVMTnlBUT09Cg==",
+      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.7.1/LiveChatHub-0.7.1-windows-x64-setup.exe"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0amRVNkNGNXNGQnpxOWNUc3FJazRJYmlUR0pRL20xVURrTjF6MUl4SXNJZmoyVE85ejQvYmFiU3pUNnpsOWdXUmthYXB3ZkhqZmEweUdzNGRJR2ZmOWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDI4ODQ2CWZpbGU6TGl2ZUNoYXQgSHViXzAuNy4xX2FhcmNoNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjcuMQo2bkMwTi9SZXRkV0FGR2hWTE03bElnZVUyYm5ubnRHRm05SzlJaHRlank3TUliZ3VWLzBMeHI2NjFLcDU0TE9rQ0NheWRkQy92ZE5pYU15ZlZVNmRCZz09Cg==",
+      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.7.1/LiveChatHub-0.7.1-linux-arm64.AppImage"
+    }
+  }
+}
