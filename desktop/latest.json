@@ -1,7 +1,7 @@
 {
   "version": "0.7.2",
   "notes": "Perbaikan: koneksi TikTok dan relay tidak lagi menutup aplikasi.",
-  "pub_date": "2026-10-31T12:35:05.388Z",
+  "pub_date": "2026-11-02T05:10:21.197Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0amZvY0xWZEVXYTRqUWFPV0VjZzM5azhrT2p6WEsrSi9hS0xjVGlVNWdMam9jYnd0amxTd2Q5b2NoRXJVUngyYlVuREZsOS8zejZWR2JwUitpZnpZNXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ5MTg5CWZpbGU6TGl2ZUNoYXRIdWItMC43LjItbWFjb3MtYXJtNjQuYXBwLnRhci5negpPZW1nRVg5UHBoeVZ5M0V1Q3BxOXhwTzhJc3BKcmpPMHU5NUFLdWRaVk1KeXB1QUFJY1BkR1IyUnFneUJSMHM1SjdGWmc5UTRnK29MUUJzbld4UndEUT09Cg==",
@@ -10,6 +10,14 @@
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0amNSM09lOUhiMFIwRmdwSHlEdjZrUC9mNjBRamp1Y1FnWnc5QkdEUFQyU3paaFdTZk4vcTdhWVFobDZnekhldC84eFVXQ0RqQ3c5aFEyaDRJdkZlWWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDQ5Nzc1CWZpbGU6TGl2ZUNoYXQgSHViXzAuNy4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjcuMgp1NDh0YU1McjNtYWw1aXFTa0w3VWYzWUduSi9VWGVHdVp2S2ZwcTV6ZE41dVZtZkxtd3kyMC9TVjFiamRINlROZDJiYUZzb3lkWjRHOG94cjVVSS9Edz09Cg==",
       "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.7.2/LiveChatHub-0.7.2-windows-x64-setup.exe"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0amNMTTZVMWFXOEZSZVNDRVJWVWtGb3FJcWE1L3lyVk0yLzRxbjhoMEhSSWVVOUUxdjZEeVJXTFBVbXRBMFRzMHJJTGx2Y1NZTDJEMTdmWEdNeklzR3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDUwMjcxCWZpbGU6TGl2ZUNoYXQgSHViXzAuNy4yX2FhcmNoNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjcuMgpmTS9HdFBiVHV4TVEwODh3YzJTL1VsL3F1RHZLSENBcUFaNTRMM0dYUEhDRldzZ090bTVqM0dhejRzSjBNNjZqeHl3QXlPeWwxMStTMkxYZlJDL3hEQT09Cg==",
+      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.7.2/LiveChatHub-0.7.2-linux-arm64.AppImage"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0alRDYVhNdnExUDNUUHFOaFFYVUZULzNYUDlCeWNJSFBGbzhSZzFsVGUxYnBKajhXTFI2YzE5N0krb3FQWkRISnpUVUcxRGFmZFd2MGtRUzZOK092S1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTk2MTExCWZpbGU6TGl2ZUNoYXQgSHViXzAuNy4yX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC43LjIKUWZ0SHNiZVhFb3oxZ3U1L1MwTm42RVRPUnNORGRoeGxHOGg4aHdodmZ2cVBBNGZaZGU3TkZ4UHFEdWNyN2N5RlhrY0VTS3UrRVFpMTBHdFZOYm1kQkE9PQo=",
+      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.7.2/LiveChatHub-0.7.2-linux-x64.AppImage"
     }
   }
 }
