@@ -1,23 +1,23 @@
 {
-  "version": "0.8.0",
-  "notes": "Baru: event TikTok (gift/follow/share) dan aturan suara, sorot pertanyaan, kartu penonton, rekap kata kunci, kontrol OBS. Perbarui juga aplikasi HP.",
-  "pub_date": "2026-11-02T20:31:33.244Z",
+  "version": "0.8.1",
+  "notes": "Baru: filter Sorotan (gift + penonton setia), pengaturan pertanyaan, tampilan Monitor baru, perbaikan Browser Source OBS. Perbarui juga aplikasi HP.",
+  "pub_date": "2026-11-03T06:20:07.736Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0amNCK1lVeEUxcjBXUUZkdkJDbWptY1Z1b2p2UFJkUzhIcUc1UklpbjI3QTVOLzlxV25RbTZTSVd5YTlwZHlkWHA3cU4rVFVqcGNNbUpSK2ZuZ2g2MHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ1MTk1CWZpbGU6TGl2ZUNoYXRIdWItMC44LjAtbWFjb3MtYXJtNjQuYXBwLnRhci5negpETjF0TGZaNFdIcE5JR1dxY1pMSDBLazIvb0VwMXhOS3BkcnYwMFArcERjVFUvRFEySUFZaXVVYWhlc1dET2JNWEt5VFhoRHVqSzQ5SThDc2E3WkJCUT09Cg==",
-      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.8.0/LiveChatHub-0.8.0-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0alpOL0dRdjRVVTU3SEkwWm50aHZiUHg4WHF5Tmgyd3BTSVlrZWhMMTNCSlhHYW8zNXl5R3MzWnVwVFh0UmViMWEvanZGbGJHdWRYWTR2c0FJYndUY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjg1Mjc5CWZpbGU6TGl2ZUNoYXRIdWItMC44LjEtbWFjb3MtYXJtNjQuYXBwLnRhci5negp5WkQwb3N4QmU0cmZ6ZG82b05xSjd3SDA0K254bGlvWDBYbHNQYU1BZjhHRXhmcGxhRDlxVEFlQlRSazBUN0JiNHlZbHRIZXU2RnpoZnU2MFhVTWNEZz09Cg==",
+      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.8.1/LiveChatHub-0.8.1-macos-arm64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0amF2QklUNS9yVmRKc0lQNnkzaWRCcVNZYzlHQ2RiV05ZYW9DUFl3QnVLbU9ZdjZFWisyWFJ2YytQc29ESlBRQThabC9XeDFZaU5JUk1iMUFPa0RCelEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ3MTc0CWZpbGU6TGl2ZUNoYXQgSHViXzAuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMAo2U3pUelU1RG4vSXVLWkZtQjYrM1VtdXFDejRxRG1QYXNueEppekZvUWNxak9DRWlxT3kzWXBFQ0RCSUVROFhOUEQ2SGh2amF5VVM4cU53aE9hTCtDZz09Cg==",
-      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.8.0/LiveChatHub-0.8.0-windows-x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0alhySEU0VGlPK2NuU3I0MTEzUUdSMi9PdGNNd3RsU1hjYWtUZXk3OW40a1RHS1NLOEJ6WmhrV0h2bVJDalFieEQyZzl3cFpvSGVWdXdaWFphbFV3eWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjg1NDUyCWZpbGU6TGl2ZUNoYXQgSHViXzAuOC4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMQp1dnZvVkxCalhYSnEwcWdnZm53UjcvOTFMSS9HaFNqdU1EcEJ6VTVrWnM4N1BlbVl4ZGxqaHN1cTRPRkFUY3hSaVN6WXkvYTJmdjVnVDloYnZwU1pCZz09Cg==",
+      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.8.1/LiveChatHub-0.8.1-windows-x64-setup.exe"
     },
     "linux-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0alY5MVF1d0RGeFNYVHRNZ0JSMWdSVzU0Qno2VEdHdmp6ZS9GN0V1QWRaZEZtUksyall1c2YwQXJoVzh5clBSeEkxMnFSbEsyT1kycE5SSUZ1bkc3QlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ3OTY0CWZpbGU6TGl2ZUNoYXQgSHViXzAuOC4wX2FhcmNoNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjguMApMQjNXUGJndW9RQmNGcVN5T2FkUUJydjZ0eURFY1cwWWF0elIzNU5uNHdUYkhOTE5ZSTd5T3hKRGFhRmV5QlJCTlRXVkZwZVZoSlcxY09xZmNlaHBEdz09Cg==",
-      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.8.0/LiveChatHub-0.8.0-linux-arm64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0alNVMXZ4cVhKaWh6TjlxUDBEZkxVK1BNa2dZUklhTVBsR3JaUmJOdjNNVEZiNzFSOWl4ZEhZZTVDREhiK1Y3ZW5tdGp1LzdZQ09lRWxmbGpPS09OemdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjg1NzAxCWZpbGU6TGl2ZUNoYXQgSHViXzAuOC4xX2FhcmNoNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjguMQp3UzNCK0lRK0g5Rkd2OHlUL2RmUTRrQWV2bmFLLytlODhiQUtoK3puV3NtT3ZXcFF3YUw2NjBVaGxjUHpkZTNtR1ZyaXBSa2VOelNEQ0pWNVlMeWNBdz09Cg==",
+      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.8.1/LiveChatHub-0.8.1-linux-arm64.AppImage"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0alZkVXBnRzhkaDdnaGwvaGYxQkdHSFlEOHIvRVRGV015ZzhEUHBENWkxbmR0NjBmNlVrQTF5b0pqeUJnWTI5aktTNHZCdDNSaFRISXZZcWFaeEgyNXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjUxMzE5CWZpbGU6TGl2ZUNoYXQgSHViXzAuOC4wX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC44LjAKTDRqNTcxcitpMjRGZUhDaFFHM3lMcXlzNVZVVk41dkg0ZDI1ZGVabDlXYWZMS1RpQThUd1NITzViSlNUcjV5MWs2cVF1a0tObUpKcEFLcStCSEw2QXc9PQo=",
-      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.8.0/LiveChatHub-0.8.0-linux-x64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajBRVWg1Q0M0alRXdHlZOXZpd1A2Ryt5WDFKNWlHN1VZNndUdGVlQk14VkRGM2c0Z1JjQ3lMY1lPUkpDL3FkMkdIZHhmK1pvNWRNbkNEWlZ4UFVyejVLNEpidGZqV1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjg2NTI1CWZpbGU6TGl2ZUNoYXQgSHViXzAuOC4xX2FtZDY0LkFwcEltYWdlCXZlcnNpb246MC44LjEKWnlFZmhLVlRqYnAvY0FFellGanBWamRlb2xKNzAvN2UyMk1jejBDb3ViSUhWY3RGcm91ZGxiVGJkM2ZpcVplRFJjcnlub1dOL0VtWmlwQ0hnS0pQQlE9PQo=",
+      "url": "https://github.com/noir-552/livechat-hub-releases/releases/download/desktop-v0.8.1/LiveChatHub-0.8.1-linux-x64.AppImage"
     }
   }
 }
